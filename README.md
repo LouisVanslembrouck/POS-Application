@@ -1,1 +1,2 @@
-# POS-Application
+# Introduction
+Low scale POS application.
